@@ -11,7 +11,7 @@ Analyze earthquakes, tectonic plates and major earthquakes from GeoJSON data.
 There are three map styles:
 - Streets
 - Satellite
-- Dark
+- Dark 
 and this displays the two earthquake data sets and the tectonic plate data. 
 There is a legend that represents the magnitude of each earthquake according the color.
 
